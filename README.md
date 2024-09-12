@@ -224,7 +224,3 @@ License
 -------
 
 This project is licensed under the **MIT License**.
-
-* * *
-
-This structure gives a comprehensive overview of your project, the workflow, and key insights while following typical best practices for `README.md` files in data science projects.
